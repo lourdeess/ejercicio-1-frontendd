@@ -1,0 +1,12 @@
+h1 {
+    color: crimson ;
+}
+p {
+    color: #FF0000;
+    font-size: 19px;
+}
+
+a {
+    color: rgb(53, 207, 189);
+    text-decoration: none;
+}
